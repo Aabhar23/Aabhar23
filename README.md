@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aabhar Gupta</h1>
-<h3 align="center">Full Stack Web Development | Software Engineer | Frontend | UI/UX enthusiast | Undergrad, JECRC Foundation Jaipur</h3>
+<h3 align="center">Full Stack Web Development | Software Engineer | Frontend | Undergrad, JECRC Foundation Jaipur</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
